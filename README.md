@@ -1,3 +1,6 @@
+
+![Logo]([https://github.com/SumayyahAlbarakati/InsightfulEd/blob/main/InsightfulEd.png](https://github.com/SumayyahAlbarakati/Tahher/blob/main/header.jpeg)
+
 # طهّر
 
 "طهر" حل للمدن الذكية وهو نظام يستخدم الدرونز والذكاء الإصطناعي لتوفر بيانات دقيقة عن مواقع وتصنيف النفايات، مما يساهم في تحسين عملية جمع النفايات وتحديد احتياجات كل موقع بشكل دقيق.
@@ -10,4 +13,3 @@
 - تقليل التكاليف التشغيلية
 - الحد من التلوث
 
-![Logo](https://github.com/SumayyahAlbarakati/InsightfulEd/blob/main/InsightfulEd.png)
