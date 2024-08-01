@@ -1,0 +1,7 @@
+@import url('"https://fonts.googleapis.com/css2?family=Zain:wght@200;300;400;700;800;900&display=swap');
+
+h1 {
+    font-family: "Zain", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
