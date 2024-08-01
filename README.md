@@ -1,5 +1,5 @@
 
-![Logo]([https://github.com/SumayyahAlbarakati/InsightfulEd/blob/main/InsightfulEd.png](https://github.com/SumayyahAlbarakati/Tahher/blob/main/header.jpeg))
+![Logo](https://github.com/SumayyahAlbarakati/Tahher/blob/main/TahherLogo.jpeg)
 
 # طهّر
 
